@@ -1,0 +1,39 @@
+Minecraft server is :
+1)Cracked
+2)Premium
+
+In Cracked:
+
+1)Utils
+2)Exploits
+3)Attacks
+
+In Utils:
+1) Chat Logger (only vanilla servers)
+2) Lumberjack
+
+In exploits:
+1) Players /home coords (tp listener)
+
+In Attacks:
+1) Bot spam join
+2) Spammer
+
+In Premium:
+
+1)Utils
+2)Exploits
+3)Attacks
+
+In Utils:
+0) Basic bot (just a player | no command | no functions)
+1) Chat Logger
+2) Lumberjack
+3) Tpa to player (random generated token)
+
+In exploits:
+1) Players /home coords (tp listener)
+
+In Attacks:
+1) Bot spam join
+2) Spammer
